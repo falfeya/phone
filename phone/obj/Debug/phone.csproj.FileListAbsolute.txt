@@ -1,0 +1,8 @@
+C:\Users\upass\OneDrive\Рабочий стол\курсы\phone\bin\Debug\phone.exe.config
+C:\Users\upass\OneDrive\Рабочий стол\курсы\phone\bin\Debug\phone.exe
+C:\Users\upass\OneDrive\Рабочий стол\курсы\phone\bin\Debug\phone.pdb
+C:\Users\upass\OneDrive\Рабочий стол\курсы\phone\obj\Debug\phone.csproj.AssemblyReference.cache
+C:\Users\upass\OneDrive\Рабочий стол\курсы\phone\obj\Debug\phone.csproj.SuggestedBindingRedirects.cache
+C:\Users\upass\OneDrive\Рабочий стол\курсы\phone\obj\Debug\phone.csproj.CoreCompileInputs.cache
+C:\Users\upass\OneDrive\Рабочий стол\курсы\phone\obj\Debug\phone.exe
+C:\Users\upass\OneDrive\Рабочий стол\курсы\phone\obj\Debug\phone.pdb
